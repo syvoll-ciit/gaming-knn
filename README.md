@@ -1,1 +1,1 @@
-# gaming-knn
+# Gaming Dataset using K-Nearest Neighbors (KNN)
